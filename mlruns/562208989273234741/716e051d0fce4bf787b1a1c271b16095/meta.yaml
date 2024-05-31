@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/716e051d0fce4bf787b1a1c271b16095/artifacts
+deleted_time: 1717141951138
+end_time: 1717141591590
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 716e051d0fce4bf787b1a1c271b16095
+run_name: likeable-smelt-504
+run_uuid: 716e051d0fce4bf787b1a1c271b16095
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141586650
+status: 4
+tags: []
+user_id: felip

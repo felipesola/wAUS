@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2c9d5adac44e45f7a631d41bd0d9133b/artifacts
+end_time: 1717145127733
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 2c9d5adac44e45f7a631d41bd0d9133b
+run_name: indecisive-kite-114
+run_uuid: 2c9d5adac44e45f7a631d41bd0d9133b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717145112369
+status: 3
+tags: []
+user_id: felip

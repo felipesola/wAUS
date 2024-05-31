@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/8ad9b08a1c6947c3836cb27446618c18/artifacts
+end_time: 1717141858715
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 8ad9b08a1c6947c3836cb27446618c18
+run_name: incongruous-hawk-709
+run_uuid: 8ad9b08a1c6947c3836cb27446618c18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141851525
+status: 3
+tags: []
+user_id: felip

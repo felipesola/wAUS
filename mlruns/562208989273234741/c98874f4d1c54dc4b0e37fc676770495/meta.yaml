@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/c98874f4d1c54dc4b0e37fc676770495/artifacts
+deleted_time: 1717141951158
+end_time: 1717140592409
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: c98874f4d1c54dc4b0e37fc676770495
+run_name: salty-grub-443
+run_uuid: c98874f4d1c54dc4b0e37fc676770495
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140585995
+status: 4
+tags: []
+user_id: felip

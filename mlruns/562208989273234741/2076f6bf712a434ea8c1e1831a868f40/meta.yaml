@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2076f6bf712a434ea8c1e1831a868f40/artifacts
+end_time: 1717142517925
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 2076f6bf712a434ea8c1e1831a868f40
+run_name: bouncy-pug-492
+run_uuid: 2076f6bf712a434ea8c1e1831a868f40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717142513166
+status: 4
+tags: []
+user_id: felip

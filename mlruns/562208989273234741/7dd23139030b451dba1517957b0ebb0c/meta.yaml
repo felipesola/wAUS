@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/7dd23139030b451dba1517957b0ebb0c/artifacts
+deleted_time: 1717141951157
+end_time: 1717140756411
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 7dd23139030b451dba1517957b0ebb0c
+run_name: silent-mule-118
+run_uuid: 7dd23139030b451dba1517957b0ebb0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717140749769
+status: 3
+tags: []
+user_id: felip

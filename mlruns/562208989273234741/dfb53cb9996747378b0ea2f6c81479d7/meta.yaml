@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/dfb53cb9996747378b0ea2f6c81479d7/artifacts
+deleted_time: 1717141951148
+end_time: 1717141035570
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: dfb53cb9996747378b0ea2f6c81479d7
+run_name: luminous-shark-518
+run_uuid: dfb53cb9996747378b0ea2f6c81479d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717141030207
+status: 4
+tags: []
+user_id: felip

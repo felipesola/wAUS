@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/650131c682334887980221e76fd33ec4/artifacts
+deleted_time: 1717141951186
+end_time: 1717137033862
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 650131c682334887980221e76fd33ec4
+run_name: persistent-wolf-412
+run_uuid: 650131c682334887980221e76fd33ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717137030229
+status: 3
+tags: []
+user_id: felip

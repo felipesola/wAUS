@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/8c69db82870245d8bc8a82e1a9817f3e/artifacts
+deleted_time: 1717141951223
+end_time: 1717136161974
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 8c69db82870245d8bc8a82e1a9817f3e
+run_name: fun-sponge-912
+run_uuid: 8c69db82870245d8bc8a82e1a9817f3e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136161885
+status: 3
+tags: []
+user_id: felip

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/b43ab756c55244be83d1df65117cf53b/artifacts
+deleted_time: 1717141951177
+end_time: 1717137791219
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: b43ab756c55244be83d1df65117cf53b
+run_name: selective-ant-899
+run_uuid: b43ab756c55244be83d1df65117cf53b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717137786569
+status: 3
+tags: []
+user_id: felip

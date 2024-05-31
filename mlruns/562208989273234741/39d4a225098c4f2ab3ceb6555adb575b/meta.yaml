@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/39d4a225098c4f2ab3ceb6555adb575b/artifacts
+deleted_time: 1717141951248
+end_time: 1717135625638
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 39d4a225098c4f2ab3ceb6555adb575b
+run_name: caring-squirrel-920
+run_uuid: 39d4a225098c4f2ab3ceb6555adb575b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717135625556
+status: 4
+tags: []
+user_id: felip

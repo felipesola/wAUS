@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/81bda970cb1944969ca1c32f849d6036/artifacts
+deleted_time: 1717141951243
+end_time: 1717135655109
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 81bda970cb1944969ca1c32f849d6036
+run_name: rogue-ray-80
+run_uuid: 81bda970cb1944969ca1c32f849d6036
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717135655018
+status: 3
+tags: []
+user_id: felip

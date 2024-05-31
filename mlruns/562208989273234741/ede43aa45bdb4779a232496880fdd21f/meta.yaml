@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/ede43aa45bdb4779a232496880fdd21f/artifacts
+deleted_time: 1717141951210
+end_time: 1717136914057
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: ede43aa45bdb4779a232496880fdd21f
+run_name: stately-moose-954
+run_uuid: ede43aa45bdb4779a232496880fdd21f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136910851
+status: 4
+tags: []
+user_id: felip

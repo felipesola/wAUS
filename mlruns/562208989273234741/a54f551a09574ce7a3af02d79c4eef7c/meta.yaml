@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/a54f551a09574ce7a3af02d79c4eef7c/artifacts
+deleted_time: 1717141951194
+end_time: 1717136955454
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: a54f551a09574ce7a3af02d79c4eef7c
+run_name: charming-grouse-596
+run_uuid: a54f551a09574ce7a3af02d79c4eef7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136952176
+status: 4
+tags: []
+user_id: felip

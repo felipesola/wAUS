@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/cf5a063943aa4f3dbfe632977ed9d6c5/artifacts
+end_time: 1717142712405
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: cf5a063943aa4f3dbfe632977ed9d6c5
+run_name: capable-owl-49
+run_uuid: cf5a063943aa4f3dbfe632977ed9d6c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717142705074
+status: 3
+tags: []
+user_id: felip

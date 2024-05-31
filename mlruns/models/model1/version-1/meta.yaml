@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1717145209007
+current_stage: None
+description: ''
+last_updated_timestamp: 1717145209007
+name: model1
+run_id: 2c9d5adac44e45f7a631d41bd0d9133b
+run_link: ''
+source: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2c9d5adac44e45f7a631d41bd0d9133b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2c9d5adac44e45f7a631d41bd0d9133b/artifacts/model
+user_id: null
+version: 1

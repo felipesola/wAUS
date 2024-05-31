@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2f915fb79e7f47519ed6e9d0852175ed/artifacts
+end_time: 1717144646134
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 2f915fb79e7f47519ed6e9d0852175ed
+run_name: intrigued-vole-728
+run_uuid: 2f915fb79e7f47519ed6e9d0852175ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717144623887
+status: 3
+tags: []
+user_id: felip

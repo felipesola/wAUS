@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/4377af32a6f24651a09f72b692b9a99b/artifacts
+deleted_time: 1717141951240
+end_time: 1717135991471
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 4377af32a6f24651a09f72b692b9a99b
+run_name: bald-tern-900
+run_uuid: 4377af32a6f24651a09f72b692b9a99b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717135990830
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/a1cefcea94d741cc921edbf62cb0f315/artifacts
+end_time: 1717142552503
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: a1cefcea94d741cc921edbf62cb0f315
+run_name: rumbling-skink-296
+run_uuid: a1cefcea94d741cc921edbf62cb0f315
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717142547800
+status: 4
+tags: []
+user_id: felip

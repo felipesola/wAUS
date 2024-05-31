@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/624ed266a8ae4ff2b56fb6a3b8d72849/artifacts
+deleted_time: 1717141951227
+end_time: 1717136135425
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 624ed266a8ae4ff2b56fb6a3b8d72849
+run_name: gifted-bass-523
+run_uuid: 624ed266a8ae4ff2b56fb6a3b8d72849
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136134788
+status: 3
+tags: []
+user_id: felip

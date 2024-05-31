@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/148a038c1c00422c9c9004838b75896d/artifacts
+deleted_time: 1717141951220
+end_time: 1717136165315
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 148a038c1c00422c9c9004838b75896d
+run_name: skillful-shark-343
+run_uuid: 148a038c1c00422c9c9004838b75896d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136164660
+status: 3
+tags: []
+user_id: felip

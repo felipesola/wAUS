@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/3f1ebea3757647cda4fc1a1c36aaf1e4/artifacts
+deleted_time: 1717141951193
+end_time: 1717136971598
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 3f1ebea3757647cda4fc1a1c36aaf1e4
+run_name: sassy-robin-160
+run_uuid: 3f1ebea3757647cda4fc1a1c36aaf1e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136968430
+status: 3
+tags: []
+user_id: felip

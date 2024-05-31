@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/7164048d3c4a4b76807a93a6c3532f78/artifacts
+deleted_time: 1717141951228
+end_time: 1717136085107
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 7164048d3c4a4b76807a93a6c3532f78
+run_name: funny-ray-9
+run_uuid: 7164048d3c4a4b76807a93a6c3532f78
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717136085019
+status: 3
+tags: []
+user_id: felip

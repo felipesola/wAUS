@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/f68fd204754a4a1799282b5f8c391a05/artifacts
+deleted_time: 1717141951181
+end_time: 1717137635401
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: f68fd204754a4a1799282b5f8c391a05
+run_name: charming-squid-771
+run_uuid: f68fd204754a4a1799282b5f8c391a05
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717137631397
+status: 3
+tags: []
+user_id: felip

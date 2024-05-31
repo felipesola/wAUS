@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/8316db2bd40941e39d88bc10301789c8/artifacts
+deleted_time: 1717141951257
+end_time: 1717134988175
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 8316db2bd40941e39d88bc10301789c8
+run_name: wise-hound-267
+run_uuid: 8316db2bd40941e39d88bc10301789c8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717134988103
+status: 3
+tags: []
+user_id: felip
