@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/dd074114ac314c9998d513ba4bb2db21/artifacts
+end_time: 1718609034425
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: dd074114ac314c9998d513ba4bb2db21
+run_name: learned-quail-744
+run_uuid: dd074114ac314c9998d513ba4bb2db21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718609034138
+status: 4
+tags: []
+user_id: felip

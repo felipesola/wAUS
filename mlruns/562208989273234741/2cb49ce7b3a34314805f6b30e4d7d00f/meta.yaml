@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2cb49ce7b3a34314805f6b30e4d7d00f/artifacts
+end_time: 1718608967682
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 2cb49ce7b3a34314805f6b30e4d7d00f
+run_name: enthused-mouse-463
+run_uuid: 2cb49ce7b3a34314805f6b30e4d7d00f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718608967358
+status: 4
+tags: []
+user_id: felip

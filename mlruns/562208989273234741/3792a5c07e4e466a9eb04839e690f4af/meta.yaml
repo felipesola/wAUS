@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/3792a5c07e4e466a9eb04839e690f4af/artifacts
+end_time: 1718609375697
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 3792a5c07e4e466a9eb04839e690f4af
+run_name: clumsy-dove-404
+run_uuid: 3792a5c07e4e466a9eb04839e690f4af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718609375602
+status: 4
+tags: []
+user_id: felip

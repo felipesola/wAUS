@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/fc023f66d69248c2861c06a17d969792/artifacts
+end_time: 1718609120030
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: fc023f66d69248c2861c06a17d969792
+run_name: masked-fowl-15
+run_uuid: fc023f66d69248c2861c06a17d969792
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718609106028
+status: 3
+tags: []
+user_id: felip

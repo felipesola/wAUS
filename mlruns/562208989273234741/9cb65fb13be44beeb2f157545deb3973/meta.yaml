@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/9cb65fb13be44beeb2f157545deb3973/artifacts
+end_time: 1718609441381
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 9cb65fb13be44beeb2f157545deb3973
+run_name: lyrical-auk-557
+run_uuid: 9cb65fb13be44beeb2f157545deb3973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718609425280
+status: 3
+tags: []
+user_id: felip
