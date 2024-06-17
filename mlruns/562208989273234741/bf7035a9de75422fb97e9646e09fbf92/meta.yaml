@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/bf7035a9de75422fb97e9646e09fbf92/artifacts
+end_time: 1718659398207
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: bf7035a9de75422fb97e9646e09fbf92
+run_name: caring-seal-96
+run_uuid: bf7035a9de75422fb97e9646e09fbf92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718659371880
+status: 3
+tags: []
+user_id: felip
