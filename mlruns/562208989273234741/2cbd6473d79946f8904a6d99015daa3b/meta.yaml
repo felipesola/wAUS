@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/2cbd6473d79946f8904a6d99015daa3b/artifacts
+end_time: 1718603456143
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 2cbd6473d79946f8904a6d99015daa3b
+run_name: unique-vole-539
+run_uuid: 2cbd6473d79946f8904a6d99015daa3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718603441150
+status: 3
+tags: []
+user_id: felip

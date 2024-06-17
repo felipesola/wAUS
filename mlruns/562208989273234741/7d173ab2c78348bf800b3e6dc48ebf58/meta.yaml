@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/7d173ab2c78348bf800b3e6dc48ebf58/artifacts
+end_time: 1718604398736
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 7d173ab2c78348bf800b3e6dc48ebf58
+run_name: nervous-panda-856
+run_uuid: 7d173ab2c78348bf800b3e6dc48ebf58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718604374698
+status: 3
+tags: []
+user_id: felip

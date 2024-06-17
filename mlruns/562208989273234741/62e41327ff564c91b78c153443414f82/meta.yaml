@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/62e41327ff564c91b78c153443414f82/artifacts
+end_time: 1718602991075
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 62e41327ff564c91b78c153443414f82
+run_name: placid-hawk-822
+run_uuid: 62e41327ff564c91b78c153443414f82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718602962991
+status: 3
+tags: []
+user_id: felip

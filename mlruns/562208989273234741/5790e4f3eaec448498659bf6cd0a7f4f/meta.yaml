@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/5790e4f3eaec448498659bf6cd0a7f4f/artifacts
+end_time: 1718603970303
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 5790e4f3eaec448498659bf6cd0a7f4f
+run_name: big-sheep-764
+run_uuid: 5790e4f3eaec448498659bf6cd0a7f4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718603948796
+status: 3
+tags: []
+user_id: felip
