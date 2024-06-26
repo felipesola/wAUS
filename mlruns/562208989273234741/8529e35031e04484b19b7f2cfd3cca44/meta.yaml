@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/8529e35031e04484b19b7f2cfd3cca44/artifacts
+deleted_time: 1719383880159
+end_time: 1719383284114
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: 8529e35031e04484b19b7f2cfd3cca44
+run_name: sneaky-vole-716
+run_uuid: 8529e35031e04484b19b7f2cfd3cca44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719383283411
+status: 4
+tags: []
+user_id: felip

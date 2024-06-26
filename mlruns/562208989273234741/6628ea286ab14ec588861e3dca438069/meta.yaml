@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/6628ea286ab14ec588861e3dca438069/artifacts
+end_time: 1719383772455
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 6628ea286ab14ec588861e3dca438069
+run_name: painted-duck-147
+run_uuid: 6628ea286ab14ec588861e3dca438069
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719383752823
+status: 3
+tags: []
+user_id: felip

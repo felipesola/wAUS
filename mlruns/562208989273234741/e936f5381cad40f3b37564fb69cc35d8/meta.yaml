@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/e936f5381cad40f3b37564fb69cc35d8/artifacts
+end_time: 1718661042175
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: e936f5381cad40f3b37564fb69cc35d8
+run_name: intrigued-grouse-894
+run_uuid: e936f5381cad40f3b37564fb69cc35d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718661022396
+status: 3
+tags: []
+user_id: felip

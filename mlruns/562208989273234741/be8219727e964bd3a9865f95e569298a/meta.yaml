@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/be8219727e964bd3a9865f95e569298a/artifacts
+deleted_time: 1719383880158
+end_time: 1719383538629
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: deleted
+run_id: be8219727e964bd3a9865f95e569298a
+run_name: bemused-trout-695
+run_uuid: be8219727e964bd3a9865f95e569298a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719383537933
+status: 4
+tags: []
+user_id: felip

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/felip/DSprojects/wAUS-git/mlruns/562208989273234741/14b8c819416a447e8fc27dfadf11835e/artifacts
+end_time: 1719383605485
+entry_point_name: ''
+experiment_id: '562208989273234741'
+lifecycle_stage: active
+run_id: 14b8c819416a447e8fc27dfadf11835e
+run_name: luminous-goose-199
+run_uuid: 14b8c819416a447e8fc27dfadf11835e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719383589760
+status: 3
+tags: []
+user_id: felip
