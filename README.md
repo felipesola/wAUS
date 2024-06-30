@@ -1,2 +1,2 @@
-# wAUS-git
+# wAUS
 Climate ML model
